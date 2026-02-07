@@ -9,7 +9,13 @@ SECURED TOP 10 IN BIT MESRA ECE SOCIETY HACKATHON
 🔗 **LinkedIn Post**  
 [View on LinkedIn](https://www.linkedin.com/posts/mukulprasad1_certificate-activity-7371452381777256448-LgnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH1gE0BMJhGCJB14O_bG5PDup1kgOppMwg)
 
+## 🚀 Project Links
 
+[![Live Project](https://img.shields.io/badge/Live_Project-BloodMe-green?style=for-the-badge&logo=vercel)](https://bloodme-frontend.vercel.app)
+
+[![Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1foUzOO5iW7dYRpLqT9ef1LVH2sZn-DDt/view?usp=drivesdk)
+
+[![Project PPT](https://img.shields.io/badge/Presentation-PPT-orange?style=for-the-badge&logo=microsoft-powerpoint)](https://drive.google.com/file/d/1Z43jAzghQ4REjCchvNvBtIpdgMfsswoH/view?usp=drivesdk)
 > **Connecting hospitals with blood donors through real-time alerts and community engagement**
 
 A comprehensive platform that bridges the gap between hospitals needing blood donations and willing donors through intelligent geospatial matching, multi-channel notifications, and real-time coordination.
