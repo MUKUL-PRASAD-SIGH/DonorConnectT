@@ -2,6 +2,7 @@
 SECURED TOP 10 IN BIT MESRA ECE SOCIETY HACKATHON
 LinkedIn post=![linkedIn](https://www.linkedin.com/posts/mukulprasad1_certificate-activity-7371452381777256448-LgnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH1gE0BMJhGCJB14O_bG5PDup1kgOppMwg)
 
+
 > **Connecting hospitals with blood donors through real-time alerts and community engagement**
 
 A comprehensive platform that bridges the gap between hospitals needing blood donations and willing donors through intelligent geospatial matching, multi-channel notifications, and real-time coordination.
